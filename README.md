@@ -1,6 +1,6 @@
 # TheEmperor99
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-:man_raising_hand:                Hey I'm @TheEmperor99
+Hey I'm @TheEmperor99
 
 :bulb: Into Pc's and Game site development 
 
